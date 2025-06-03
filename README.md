@@ -1,4 +1,4 @@
-### Hey there! I'm Shubham!👋
+### Hey there! I'm Shubh!👋
 ![shipit](https://github.githubassets.com/images/icons/emoji/shipit.png)
 ---
 
