@@ -4,7 +4,7 @@
 
 I like to innovate and code. I like to do Competitive Programming alongside working on projects based around Python ! :wink:
  
- 💬 Ask me about Data Structures and Algorithms, Linux, Java and other topics in and around Software Development !
+ 💬 Ask me about Data Structures and Algorithms, Linux, Python, Java and other topics in and around Software Development !
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhamShreshth)   <img src="https://img.shields.io/github/followers/ShubhamShreshth?label=Follow" style=" float:left, margin-right:10px" />
 
