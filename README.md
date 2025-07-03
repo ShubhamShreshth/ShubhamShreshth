@@ -4,7 +4,7 @@
 
 I like to innovate and code. I like to do Competitive Programming alongside working on projects based around Python ! :wink:
 <br />
-[![Gmail Badge](https://img.shields.io/badge/-Shubham%20Shreshth-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:shubhamshreshth18@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Shreshth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreshth-shubham/)
+[![Gmail Badge](https://img.shields.io/badge/-Shubham%20Shreshth-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:shubhamshreshth18@gmail.com) &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-Shubham%20Shreshth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreshth-shubham/)
  
  💬 Ask me about Data Structures and Algorithms, Python, Golang, Java and other topics in and around Software Development !
 
